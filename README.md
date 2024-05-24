@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephie👩🏽‍💻
-- 👀 I’m interested in Backend Development and want to started in the tech industy
-- 🌱 I’m currently learning SQL, API, SEO, and hosting ...
+- 👀 I’m interested in Cybersecurity and Data Analysis and want to start in the tech industry
+- 🌱 I’m currently learning SQL, API, CSS, HMTL, Javascript, Python, and hosting ...
 - 💌 check out my project for more
--📫 How to reach me Stephielopez1@gmail.com
+-📫 How to reach me Stephieg187@gmail.com
 --->
